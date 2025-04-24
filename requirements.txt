@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+gunicorn
+pandas
+plotly
+python-dotenv
+requests
+flask-cors

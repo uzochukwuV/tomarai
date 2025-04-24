@@ -1,0 +1,241 @@
+api/market-prediction
+    {
+  "market_prediction": {
+    "market_direction": "bullish",
+    "timestamp": "2025-04-23T23:37:46.078372",
+    "tokens": [
+      {
+        "combined_score": 0.5,
+        "name": "ZilStream",
+        "sentiment": [
+          {
+            "DATETIME": "2025-02-21T15:00:00.000Z",
+            "MARKET_SENTIMENT_GRADE": 56.78,
+            "MARKET_SENTIMENT_LABEL": "neutral",
+            "NEWS_SENTIMENT_GRADE": 54,
+            "NEWS_SENTIMENT_LABEL": "neutral",
+            "NEWS_SUMMARY": "In the cryptocurrency markets this week, several key developments have taken place. SG-FORGE launched a MiCA-compliant EUR stablecoin on the Stellar Network, while Kraken is considering launching a USD stablecoin due to MiCA regulations potentially affecting USDT. A buy alert for Stellar (XLM) was issued, signaling a potential rally. FTX creditors in various countries were excluded from reimbursements, and the SEC established a new cyber and technology unit to regulate the cryptocurrency space. XRP's price prediction of reaching an all-time high and a dip in Pi coin by 65% were also notable events. Coinbase scored a win as the SEC is set to drop a lawsuit against them, while a woman was sentenced for committing fraud against Bybit. Franklin Templeton launched a mixed Bitcoin and Ethereum exchange-traded fund, and Sora Ventures announced a Bitcoin yield strategy for Asia. Gary Cardone dumped his XRP position, and the Shannon Testnet by Somnia achieved over 1 million transactions per second. Bitcoin crossed the $99,000 mark, and speculation surrounded Ripple's potential SEC lawsuit. Solana's memecoin stumble could boost Ethereum, and Melania Memecoin gained attention. Littlebit, a platform for micro-savings in Bitcoin, also garnered interest. Overall, the cryptocurrency markets were abuzz with various developments and challenges facing the industry.",
+            "REDDIT_SENTIMENT_GRADE": 52.3,
+            "REDDIT_SENTIMENT_LABEL": "neutral",
+            "REDDIT_SUMMARY": "In the latest news related to the cryptocurrency markets, several key developments have taken place that are shaping the landscape of digital assets. Ethereum has hit a new all-time high due to the surge in demand for DeFi projects, while Ripple is facing a lawsuit from the SEC over XRP token sales. Dogecoin has seen a massive surge in value following tweets from Elon Musk, and Litecoin has announced a partnership with UFC for a sponsorship deal. Additionally, Cardano has released a new update for smart contract capabilities.\n\nThe market remains dynamic and full of opportunities for investors and traders, with Bitcoin prices continuing to be volatile and the rise of decentralized finance (DeFi) platforms being a significant topic of discussion. The surge in the price of various digital assets, the popularity of DeFi projects, and the impact of regulatory developments on the cryptocurrency industry are all key highlights in the cryptocurrency community.\n\nFurthermore, the issue of sanctions affecting transactions between Coinbase and MetaMask, the emergence of Pi Network for mining Pi coins on smartphones, and the launch of The Pixel Game for art and crypto enthusiasts are also noteworthy developments in the cryptocurrency space. Overall, the market continues to evolve with new trends and opportunities emerging regularly, making it essential for investors and enthusiasts to stay informed and navigate the digital asset space effectively.",
+            "TWITTER_SENTIMENT_GRADE": 12.11,
+            "TWITTER_SENTIMENT_LABEL": "very negative",
+            "TWITTER_SUMMARY": "The cryptocurrency markets have been buzzing with activity, with a focus on the long-short ratio for CLV on dYdX and Gate.io. Gate.io has been noted to have a higher percentage of shorts, indicating a bearish sentiment among traders. However, the most discussed topic, apart from Bitcoin, has been the controversy surrounding the distribution of DOGE payments. Concerns have been raised about the exclusion of individuals such as SS recipients and the poor from receiving these payments, leading to a debate on the fairness of crypto distribution.\n\nAdditionally, there have been reports of scams and hacks in the cryptocurrency space, resulting in the loss of funds for some investors. Discussions have also emerged regarding hidden profits from crypto transactions and warnings issued by China regarding the risks associated with investing in cryptocurrencies.\n\nOverall, the sentiment in the cryptocurrency community appears to be a mix of excitement over Bitcoin's performance and concerns about the equitable distribution of cryptocurrencies. Investors and traders are advised to exercise caution and stay informed about the latest developments in the market."
+          }
+        ],
+        "signals": [
+          {
+            "DATE": "2023-10-05T00:00:00.000Z",
+            "HOLDING_RETURNS": 1.082,
+            "TM_INVESTOR_GRADE": null,
+            "TM_LINK": "https://app.tokenmetrics.com/undefined",
+            "TM_TRADER_GRADE": 69.93,
+            "TOKEN_ID": 4015,
+            "TOKEN_NAME": "Avalanche",
+            "TOKEN_SYMBOL": "AVAX",
+            "TOKEN_TREND": 1,
+            "TRADING_SIGNAL": 1,
+            "TRADING_SIGNALS_RETURNS": 2.2312,
+            "tm_link": "avalanche-2"
+          },
+          {
+            "DATE": "2023-10-03T00:00:00.000Z",
+            "HOLDING_RETURNS": -0.5666,
+            "TM_INVESTOR_GRADE": null,
+            "TM_LINK": "https://app.tokenmetrics.com/undefined",
+            "TM_TRADER_GRADE": 62.21,
+            "TOKEN_ID": 18760,
+            "TOKEN_NAME": "Ethereum Name Service",
+            "TOKEN_SYMBOL": "ENS",
+            "TOKEN_TREND": 1,
+            "TRADING_SIGNAL": 1,
+            "TRADING_SIGNALS_RETURNS": -0.7764,
+            "tm_link": "ethereum-name-service"
+          },
+          {
+            "DATE": "2023-10-03T00:00:00.000Z",
+            "HOLDING_RETURNS": 0.0087,
+            "TM_INVESTOR_GRADE": null,
+            "TM_LINK": "https://app.tokenmetrics.com/undefined",
+            "TM_TRADER_GRADE": 64.95,
+            "TOKEN_ID": 3315,
+            "TOKEN_NAME": "Cardano",
+            "TOKEN_SYMBOL": "ADA",
+            "TOKEN_TREND": 1,
+            "TRADING_SIGNAL": 1,
+            "TRADING_SIGNALS_RETURNS": 9.2161,
+            "tm_link": "cardano"
+          },
+          {
+            "DATE": "2023-10-02T00:00:00.000Z",
+            "HOLDING_RETURNS": -0.9453,
+            "TM_INVESTOR_GRADE": null,
+            "TM_LINK": "https://app.tokenmetrics.com/undefined",
+            "TM_TRADER_GRADE": 64.18,
+            "TOKEN_ID": 4017,
+            "TOKEN_NAME": "Filecoin",
+            "TOKEN_SYMBOL": "FIL",
+            "TOKEN_TREND": 1,
+            "TRADING_SIGNAL": 1,
+            "TRADING_SIGNALS_RETURNS": 1.3007,
+            "tm_link": "filecoin"
+          },
+          {
+            "DATE": "2023-10-02T00:00:00.000Z",
+            "HOLDING_RETURNS": 28.7281,
+            "TM_INVESTOR_GRADE": null,
+            "TM_LINK": "https://app.tokenmetrics.com/undefined",
+            "TM_TRADER_GRADE": 83.95,
+            "TOKEN_ID": 3988,
+            "TOKEN_NAME": "Solana",
+            "TOKEN_SYMBOL": "SOL",
+            "TOKEN_TREND": 1,
+            "TRADING_SIGNAL": 1,
+            "TRADING_SIGNALS_RETURNS": 14.9039,
+            "tm_link": "solana"
+          },
+          {
+            "DATE": "2023-10-02T00:00:00.000Z",
+            "HOLDING_RETURNS": 20.6411,
+            "TM_INVESTOR_GRADE": null,
+            "TM_LINK": "https://app.tokenmetrics.com/undefined",
+            "TM_TRADER_GRADE": 65.87,
+            "TOKEN_ID": 3377,
+            "TOKEN_NAME": "Litecoin",
+            "TOKEN_SYMBOL": "LTC",
+            "TOKEN_TREND": 1,
+            "TRADING_SIGNAL": 1,
+            "TRADING_SIGNALS_RETURNS": 45.4805,
+            "tm_link": "litecoin"
+          },
+          {
+            "DATE": "2023-10-02T00:00:00.000Z",
+            "HOLDING_RETURNS": -0.3019,
+            "TM_INVESTOR_GRADE": null,
+            "TM_LINK": "https://app.tokenmetrics.com/undefined",
+            "TM_TRADER_GRADE": 76.76,
+            "TOKEN_ID": 29932,
+            "TOKEN_NAME": "Arkham",
+            "TOKEN_SYMBOL": "ARKM",
+            "TOKEN_TREND": 1,
+            "TRADING_SIGNAL": 1,
+            "TRADING_SIGNALS_RETURNS": -0.074,
+            "tm_link": "arkham"
+          },
+          {
+            "DATE": "2023-10-02T00:00:00.000Z",
+            "HOLDING_RETURNS": 1189.5517,
+            "TM_INVESTOR_GRADE": null,
+            "TM_LINK": "https://app.tokenmetrics.com/undefined",
+            "TM_TRADER_GRADE": 68.53,
+            "TOKEN_ID": 3306,
+            "TOKEN_NAME": "Ethereum",
+            "TOKEN_SYMBOL": "ETH",
+            "TOKEN_TREND": 1,
+            "TRADING_SIGNAL": 1,
+            "TRADING_SIGNALS_RETURNS": 1097.9005,
+            "tm_link": "ethereum"
+          },
+          {
+            "DATE": "2023-10-01T00:00:00.000Z",
+            "HOLDING_RETURNS": 3.7712,
+            "TM_INVESTOR_GRADE": null,
+            "TM_LINK": "https://app.tokenmetrics.com/undefined",
+            "TM_TRADER_GRADE": 76.98,
+            "TOKEN_ID": 4329,
+            "TOKEN_NAME": "The Sandbox",
+            "TOKEN_SYMBOL": "SAND",
+            "TOKEN_TREND": 1,
+            "TRADING_SIGNAL": 1,
+            "TRADING_SIGNALS_RETURNS": 28.7904,
+            "tm_link": "the-sandbox"
+          },
+          {
+            "DATE": "2023-10-01T00:00:00.000Z",
+            "HOLDING_RETURNS": 1.6386,
+            "TM_INVESTOR_GRADE": null,
+            "TM_LINK": "https://app.tokenmetrics.com/undefined",
+            "TM_TRADER_GRADE": 78.39,
+            "TOKEN_ID": 26987,
+            "TOKEN_NAME": "FLOKI",
+            "TOKEN_SYMBOL": "FLOKI",
+            "TOKEN_TREND": 1,
+            "TRADING_SIGNAL": 1,
+            "TRADING_SIGNALS_RETURNS": 0.8959,
+            "tm_link": "floki"
+          }
+        ],
+        "symbol": "STREAM",
+        "token_id": 6
+      },
+
+api/market-metrics:
+    "data": [
+    {
+      "DATE": "2025-04-23T00:00:00.000Z",
+      "LAST_TM_GRADE_SIGNAL": 1,
+      "TM_GRADE_PERC_HIGH_COINS": 41,
+      "TM_GRADE_SIGNAL": 1,
+      "TOTAL_CRYPTO_MCAP": 3016708245538.297
+    },
+    {
+      "DATE": "2025-04-22T00:00:00.000Z",
+      "LAST_TM_GRADE_SIGNAL": -1,
+      "TM_GRADE_PERC_HIGH_COINS": 21.666666666666668,
+      "TM_GRADE_SIGNAL": 0,
+      "TOTAL_CRYPTO_MCAP": 2869676331371.022
+    },
+api/trading-signals:
+    [
+  {
+    "DATE": "2023-10-05T00:00:00.000Z",
+    "HOLDING_RETURNS": 1.082,
+    "TM_INVESTOR_GRADE": null,
+    "TM_LINK": "https://app.tokenmetrics.com/undefined",
+    "TM_TRADER_GRADE": 69.93,
+    "TOKEN_ID": 4015,
+    "TOKEN_NAME": "Avalanche",
+    "TOKEN_SYMBOL": "AVAX",
+    "TOKEN_TREND": 1,
+    "TRADING_SIGNAL": 1,
+    "TRADING_SIGNALS_RETURNS": 2.2312,
+    "tm_link": "avalanche-2"
+  },
+  {
+    "DATE": "2023-10-03T00:00:00.000Z",
+    "HOLDING_RETURNS": 0.0087,
+    "TM_INVESTOR_GRADE": null,
+    "TM_LINK": "https://app.tokenmetrics.com/undefined",
+    "TM_TRADER_GRADE": 64.95,
+    "TOKEN_ID": 3315,
+    "TOKEN_NAME": "Cardano",
+    "TOKEN_SYMBOL": "ADA",
+    "TOKEN_TREND": 1,
+    "TRADING_SIGNAL": 1,
+    "TRADING_SIGNALS_RETURNS": 9.2161,
+    "tm_link": "cardano"
+  },
+api/token-analysis/<token_id>/<symbol>/<name>:
+    jsonify({
+            'status': 'success',
+            'token_id': token_id,
+            'symbol': symbol,
+            'price_data': ohlcv_data.to_dict('records') if ohlcv_data is not None else None,
+            'sentiment': sentiment_response.get('data'),
+            'trading_signals': signals_response.get('data'),
+            'support_resistance': support_resistance_response.get('data')
+        })
+api/ask-tmai/q:
+    {
+  "success": true,
+  "message": "AI Chatbot response successful",
+  "answer": "I have found the answer to your question. According to Token Metrics Analytics, the next potential 100x coin is Augur (REP). Here are some key metrics and information about Augur:\n\n- TM Investor Grade: 71.4%\n- Fundamentals and Technology: Augur has strong fundamentals and technology, as indicated by its high TM Investor Grade.\n- Fully Diluted Valuation: The fully diluted valuation for Augur is 12,060,485. This valuation is relatively low compared to other cryptocurrencies, suggesting that Augur has significant room for growth in the long term.\n\nPlease note that while I can provide you with this data and analysis from Token Metrics, I cannot provide personalized investment advice. It's important to conduct your own research and consider your own investment objectives and risk tolerance before making any investment decisions.",
+  "thread": [
+    {
+      "user": "What is the next 100x coin ?"
+    },
+    {
+      "chatbot": "I have found the answer to your question. According to Token Metrics Analytics, the next potential 100x coin is Augur (REP). Here are some key metrics and information about Augur:\n\n- TM Investor Grade: 71.4%\n- Fundamentals and Technology: Augur has strong fundamentals and technology, as indicated by its high TM Investor Grade.\n- Fully Diluted Valuation: The fully diluted valuation for Augur is 12,060,485. This valuation is relatively low compared to other cryptocurrencies, suggesting that Augur has significant room for growth in the long term.\n\nPlease note that while I can provide you with this data and analysis from Token Metrics, I cannot provide personalized investment advice. It's important to conduct your own research and consider your own investment objectives and risk tolerance before making any investment decisions."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+2025-04-23 21:36:34,773 DEBUG Initializing HTTP session.
+2025-04-23 21:36:34,775 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2025-04-23 21:38:38,453 DEBUG Initializing HTTP session.
+2025-04-23 21:38:38,455 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
